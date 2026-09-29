@@ -28,7 +28,7 @@ Testes do projeto:
 - Ex. de Requisição: GET /status
 - Ex. de Resposta: { "status" : "ok" }
  
-![GET /missoes]!(image-5.png)
+![GET / Missoes](image-5.png)
 - URL: localhost:8080/missoes
 - Objetivo: Pesquisar todas as missões cadastradas.
 - Ex. de Requisição: GET /missoes
@@ -106,7 +106,7 @@ Testes do projeto:
     }
 ]
  ``
-![GET /missoes/2]!(image-6.png)
+![GET /missoes/2](image-6.png)
 - URL: localhost:8080/missoes/2
 - Objetivo: Pesquisar a missão com id 2.
 - Ex. de Requisição: GET /missoes/2
@@ -119,7 +119,7 @@ Testes do projeto:
     "status": "Em andamento"
 }
  
-![POST /missoes]!(image-7.png)
+![POST /missoes](image-7.png)
 - URL: localhost:8080/missoes
 - Objetivo: Cadastrar uma nova missão.
 - Ex. de Requisição: POST /missoes
@@ -140,7 +140,7 @@ Testes do projeto:
     "status": "Em andamento"
 }
  
-![PUT /missoes/8]!(image-8.png)
+![PUT /missoes/8](image-8.png)
 - URL: localhost:8080/missoes/8
 - Objetivo: Atualizar a missão cadastrada com id 8.
 - Ex. de Requisição: PUT /missoes/8
@@ -161,7 +161,7 @@ Testes do projeto:
     "status": "Concluída"
 }
  
-![DELETE /missoes/8]!(image-9.png)
+![DELETE /missoes/8](image-9.png)
 - URL: localhost:8080/missoes/8
 - Objetivo: Deletar a missão cadastrada com id 8.
 - Ex. de Requisição: DELETE /missoes/8
