@@ -11,7 +11,7 @@ Foram utilizadas as tecnologias:
 - JSON
  
 Para clonar esse projeto, você deve entrar no app Windows Powershell e digitar:
-- git clone 
+- git clone https://github.com/OTalDavi/AtividadeAvaliativa.git
  
 Para instalar as dependências deste projeto, você deve entrar no terminal VSCode ou Windows Powershell e digitar:
 - composer require slim/slim
